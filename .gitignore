@@ -2,4 +2,5 @@
 *.klib
 lib/*.a
 *build*
+*.o
 
