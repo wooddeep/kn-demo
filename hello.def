@@ -1,0 +1,5 @@
+headers=hello.h
+headerFilter=hello.h
+package=hello
+staticLibraries = libhello.a
+libraryPaths= C:\\Users\\niuto\\work\\kotlin\\hello\\lib

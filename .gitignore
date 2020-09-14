@@ -1,0 +1,5 @@
+*.exe*
+*.klib
+lib/*.a
+*build*
+
